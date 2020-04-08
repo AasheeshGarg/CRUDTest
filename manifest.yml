@@ -1,0 +1,5 @@
+name: SpringBootMySql
+path: target\CRUDExample-0.0.1-SNAPSHOT.jar
+memory: 1G
+services:
+	-mysqldb
